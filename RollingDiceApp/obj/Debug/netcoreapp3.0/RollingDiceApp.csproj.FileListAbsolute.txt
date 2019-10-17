@@ -1,0 +1,11 @@
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\bin\Debug\netcoreapp3.0\RollingDiceApp.exe
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\bin\Debug\netcoreapp3.0\RollingDiceApp.deps.json
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\bin\Debug\netcoreapp3.0\RollingDiceApp.runtimeconfig.json
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\bin\Debug\netcoreapp3.0\RollingDiceApp.runtimeconfig.dev.json
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\bin\Debug\netcoreapp3.0\RollingDiceApp.dll
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\bin\Debug\netcoreapp3.0\RollingDiceApp.pdb
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\obj\Debug\netcoreapp3.0\RollingDiceApp.csprojAssemblyReference.cache
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\obj\Debug\netcoreapp3.0\RollingDiceApp.AssemblyInfoInputs.cache
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\obj\Debug\netcoreapp3.0\RollingDiceApp.AssemblyInfo.cs
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\obj\Debug\netcoreapp3.0\RollingDiceApp.dll
+C:\Users\Prophesy\Documents\C#2019\RollingDiceApp\RollingDiceApp\obj\Debug\netcoreapp3.0\RollingDiceApp.pdb
